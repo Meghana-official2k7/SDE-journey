@@ -8,6 +8,8 @@ if  Age  >=  18 :
 else :	
            print( "not eligible")
 
+---------------------------------------
+
 
 ODD OR EVEN:
 Number = int(input("Number= "))
@@ -16,6 +18,7 @@ if Number  % 2 == 0 :
 else :
 	print("odd")
 
+---------------------------------------
 
 PASS OR FAIL:
 Marks = int(input("Marks obtained="))
@@ -24,6 +27,7 @@ if Marks >= 35:
 else:
 	print("failed")
 
+---------------------------------------
 
 GREATER NUMBER:
 a = int(input("number1="))
@@ -35,6 +39,7 @@ elif a == b :
 else:
 	print("number1 lesser than number2")
 
+---------------------------------------
 
 DREAM PACKAGE:
 a = int(input("Dream package in lpa:"))
@@ -45,6 +50,7 @@ elif a>=30:
 else :
 	print("First step- keep grinding")
 
+---------------------------------------
 
 JOB ELIGIBILITY1:
 age = int(input("Enter age="))
@@ -55,6 +61,7 @@ if age >=20 and age <40 and exp>=2:
 else:
 	print("Not Eligible - Keep Grinding")
 
+---------------------------------------
 
 JOB ELIGIBILITY2 WITH REASON:
 age = int(input("Age ="))
