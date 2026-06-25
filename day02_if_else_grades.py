@@ -7,6 +7,8 @@ print("My Name is ",name)
 print("age = ",age)
 print("studying in =",college)
 
+---------------------------------------
+
 
 CALCULATOR:
 a = 15
@@ -22,10 +24,14 @@ print("subtraction=",sub)
 print("multiplication=",mul)
 print("division=",div)
 
+---------------------------------------
+
 
 USER INPUT:
 company = input("dream company: ")
 print("wow! you will definitely join",company,"in 2027 ")
+
+---------------------------------------
 
 
 TYPE CHECK:
@@ -36,6 +42,8 @@ z = "Meghana"
 print(type(x))
 print(type(y))
 print(type(z))
+
+---------------------------------------
 
 
 SWAP:
