@@ -3,6 +3,7 @@ name =" Meghana"
 print("Hello world , My name is ", name)
 print("Day 1 pydroid started❤️‍🔥 goal to become SDE")
 
+---------------------------------------
 
 BIO DATA:
 name = "Meghana"
@@ -17,6 +18,7 @@ print("college:",college)
 print("Goal=:",goal) 
 print( "status : Day 1 Done✅")
 
+---------------------------------------
 
 CALCULATOR:
 a = 20
