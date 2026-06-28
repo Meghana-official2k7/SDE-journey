@@ -12,3 +12,4 @@ Day 4:      25-06-26     for loops              For Loops|range()|tables|countdo
 Day 4.1:    25-06-26     if-else                leap year+nested logic
 Day 5:      26-06-26     While-loops            for loop|while loop|nested loop|break
 Day 6:      27-06-26     Functions              basics|parameters+return|default parameters|calc         
+Day 7:      28-06-26     Lists                  basics|len()|append()|pop()|reverse|loop
